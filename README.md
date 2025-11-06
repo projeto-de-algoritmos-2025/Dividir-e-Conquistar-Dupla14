@@ -22,7 +22,7 @@ Utilizamos a linguagem python para a resolução das questões.
 
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| []() | Médio | [Vídeo]() |
+| [53. Maximum Subarray](DC/medias/Q1/q1.md) | Médio | [Vídeo]() |
 | []() | Difícil | [Vídeo]() |
 | []() | Médio | [Vídeo]() |
 | []() | Difícil | [Vídeo]() |
