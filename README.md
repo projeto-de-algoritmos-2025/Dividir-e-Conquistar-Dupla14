@@ -1,0 +1,1 @@
+# Dividir-e-Conquistar-Dupla14
