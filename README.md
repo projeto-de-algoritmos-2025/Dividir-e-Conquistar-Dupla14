@@ -23,6 +23,6 @@ Utilizamos a linguagem python para a resolução das questões.
 | Questão | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [53. Maximum Subarray](DC/medias/Q1/q1.md) | Médio | [Vídeo]() |
-| []() | Difícil | [Vídeo]() |
+| [2426. Number of Pairs Satisfying Inequality](DC/dificeis/Q1/q1.md) | Difícil | [Vídeo]() |
 | []() | Médio | [Vídeo]() |
 | []() | Difícil | [Vídeo]() |
